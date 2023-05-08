@@ -23,7 +23,7 @@ This is a simple React project that displays weather data for a given city using
 ## Screenshots
 
 <img src='https://i.ibb.co/YLJD5cb/msedge-3-FS1-Zoz-Mx-X.png' alt='Screenshot 1' />
-<img src='https://i.ibb.co/tQQjqGP/msedge-s-Duy-Syfok5.png' alt='Screenshot 12' />
+<img src='https://i.ibb.co/tQQjqGP/msedge-s-Duy-Syfok5.png' alt='Screenshot 2' />
 
 ## License
 
